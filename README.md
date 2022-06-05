@@ -1,11 +1,11 @@
 Project structure:
-├── target                 # Compiled files
-├── src                    # Source files
-├── META-INF               # Persistense file
-├── out                    # build artifacts
-├── pom.xml                # pom file
-├── maven files              
-└── README.md
+├── target                 # Compiled files__
+├── src                    # Source files__
+├── META-INF               # Persistense file__
+├── out                    # build artifacts__
+├── pom.xml                # pom file__
+├── maven files          __    
+└── README.md__
 
-Quick start: 
-java -jar out\artifacts\activitytrackhse_jar\activitytrackhse.jar - for Windows
+Quick start:__ 
+java -jar out\artifacts\activitytrackhse_jar\activitytrackhse.jar - for Windows__
